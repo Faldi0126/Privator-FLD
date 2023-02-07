@@ -1,6 +1,6 @@
 [
   {
-    "email": "banana@mail.com",
+    "email": "banana@yopmail.com",
     "password": "12345",
     "fullName": "banana",
     "bio": "Seorang yang halu",
@@ -19,7 +19,7 @@
     }
   },
   {
-    "email": "orange@mail.com",
+    "email": "orange@yopmail.com",
     "password": "12345",
     "fullName": "orange",
     "bio": "Seorang yang halu",
@@ -38,7 +38,7 @@
     }
   },
   {
-    "email": "grape@mail.com",
+    "email": "grape@yopmail.com",
     "password": "12345",
     "fullName": "grape",
     "bio": "Seorang yang halu",
@@ -57,7 +57,7 @@
     }
   },
   {
-    "email": "kentang@mail.com",
+    "email": "kentang@yopmail.com",
     "password": "12345",
     "fullName": "kentang",
     "bio": "Seorang yang halu",
@@ -76,7 +76,7 @@
     }
   },
   {
-    "email": "carrot@mail.com",
+    "email": "carrot@yopmail.com",
     "password": "12345",
     "fullName": "Carrot",
     "bio": "Seorang yang halu",
@@ -95,7 +95,7 @@
     }
   },
   {
-    "email": "lemon@mail.com",
+    "email": "lemon@yopmail.com",
     "password": "12345",
     "fullName": "lemon",
     "bio": "Seorang yang halu",
@@ -114,7 +114,7 @@
     }
   },
   {
-    "email": "avocado@mail.com",
+    "email": "avocado@yopmail.com",
     "password": "12345",
     "fullName": "avocado",
     "bio": "Seorang yang halu",
@@ -133,7 +133,7 @@
     }
   },
   {
-    "email": "cherry@mail.com",
+    "email": "cherry@yopmail.com",
     "password": "12345",
     "fullName": "Cherry",
     "bio": "Seorang yang halu",

@@ -89,27 +89,7 @@ class InstructorController {
         include: [
           {
             model: Course,
-            attributes: [
-              'name',
-              'detail',
-              'price',
-              'imgUrl',
-              'type',
-              'CategoryId',
-              'level',
-            ],
           },
-        ],
-        attributes: [
-          'id',
-          'role',
-          'fullName',
-          'bio',
-          'profilePicture',
-          'location',
-          'phoneNumber',
-          'email',
-          'geometry',
         ],
       });
       res.status(200).json(instructors);
@@ -125,37 +105,15 @@ class InstructorController {
         include: [
           {
             model: Course,
-            attributes: [
-              'name',
-              'detail',
-              'price',
-              'imgUrl',
-              'type',
-              'CategoryId',
-              'level',
-            ],
           },
           {
             model: Schedule,
-            attributes: ['time'],
             include: [
               {
                 model: Student,
-                attributes: ['fullName', 'location'],
               },
             ],
           },
-        ],
-        attributes: [
-          'id',
-          'role',
-          'fullName',
-          'bio',
-          'profilePicture',
-          'location',
-          'phoneNumber',
-          'email',
-          'geometry',
         ],
       });
 
